@@ -1,7 +1,7 @@
 # **Projet 8 : Réalisez un traitement dans un environnement Big Data sur le Cloud**
 
 ## **Contexte du projet**
-Ce projet fait partie du parcours **Machine Learning Engineer** d’**OpenClassrooms**. Il s’agit de construire une solution performante et évolutive pour traiter des données massives en combinant **PySpark** pour le traitement distribué et les services cloud d’**AWS**.
+Ce projet fait partie du parcours **Machine Learning Engineer** de **centralesupélec **et d’**OpenClassrooms**. Il s’agit de construire une solution performante et évolutive pour traiter des données massives en combinant **PySpark** pour le traitement distribué et les services cloud d’**AWS**.
 
 ---
 
